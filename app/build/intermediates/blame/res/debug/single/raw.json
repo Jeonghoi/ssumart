@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\raw\\lb_voice_open.ogg"
+    }
+]

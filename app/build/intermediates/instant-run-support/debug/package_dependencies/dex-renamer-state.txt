@@ -1,0 +1,19 @@
+#Wed Aug 30 02:19:40 KST 2017
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes6.dex
+renamed.0=classes2.dex
+base.5=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2e6bf7ec4c87e5b7056975fd569785354dfe5cf0
+base.4=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_950ef9600af45d4bad2fcab3bfcbdbaee09bf339
+base.3=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fd87e6e474f086138c51fc8e1473aa587b0b163a
+base.2=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_91b805de6f2590e6c748972eb9a647f8b97eeeb0
+base.1=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_c7ba2f398f0685c92d0845414d0266e2b6d00341
+base.0=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_545741a97349beb9e90abb8cea705c84fb1f531a
+file.5=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2e6bf7ec4c87e5b7056975fd569785354dfe5cf0\\classes.dex
+file.4=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_950ef9600af45d4bad2fcab3bfcbdbaee09bf339\\classes.dex
+file.3=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fd87e6e474f086138c51fc8e1473aa587b0b163a\\classes.dex
+file.2=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_91b805de6f2590e6c748972eb9a647f8b97eeeb0\\classes.dex
+file.1=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_c7ba2f398f0685c92d0845414d0266e2b6d00341\\classes.dex
+file.0=C\:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_545741a97349beb9e90abb8cea705c84fb1f531a\\classes.dex

@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:3:1-71:12
+	package
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:6:29-54
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:5:5-63
+uses-feature#android.software.leanback
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:8:3-10:32
+	android:required
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:10:7-30
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:9:7-47
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:11:3-13:33
+	android:required
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:13:7-31
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:12:7-50
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:14:3-69
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:14:20-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:15:3-79
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:15:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:16:3-78
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:16:20-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:17:3-73
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:17:20-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:18:3-64
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:18:20-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:19:3-78
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:19:20-76
+application
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:21:3-70:17
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:15:5-18:19
+MERGED from [com.android.support:leanback-v17:23.4.0] C:\Users\jungh\.android\build-cache\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jungh\.android\build-cache\4eb262d1c10b1ee4f49b2a6dd015968dbe2d60a3\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:24:7-39
+	android:supportsRtl
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:25:7-33
+	android:allowBackup
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:22:7-33
+	android:icon
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:23:7-36
+	android:theme
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:26:7-38
+activity#com.jeonghoi.ssumart.HomeActivity
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:28:5-44:16
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:30:9-41
+	android:screenOrientation
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:34:9-46
+	android:label
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:32:9-42
+	android:stateNotNeeded
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:35:9-38
+	android:launchMode
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:33:9-40
+	android:icon
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:31:9-38
+	android:theme
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:29:9-57
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:37:7-43:23
+	android:priority
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:37:22-43
+action#android.intent.action.MAIN
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:38:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:39:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:40:9-77
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:40:19-75
+category#android.intent.category.HOME
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:41:19-62
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:42:9-67
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:42:19-65
+activity#com.jeonghoi.ssumart.CompactHomeActivity
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:46:5-62:16
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:48:9-41
+	android:screenOrientation
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:52:9-46
+	android:label
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:50:9-50
+	android:stateNotNeeded
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:53:9-38
+	android:launchMode
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:51:9-40
+	android:icon
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:49:9-38
+	android:theme
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:54:9-40
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:47:9-64
+receiver#com.jeonghoi.ssumart.BootReceiver
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:64:5-68:16
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:64:15-63
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:65:7-67:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:66:9-70
+	android:name
+		ADDED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml:66:17-68
+uses-sdk
+INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:leanback-v17:23.4.0] C:\Users\jungh\.android\build-cache\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\jungh\.android\build-cache\6385e83a49df1b01118679bb70bf75a868452c73\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jungh\.android\build-cache\4eb262d1c10b1ee4f49b2a6dd015968dbe2d60a3\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jungh\AndroidStudioProjects\mirror-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNETE
+ADDED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.naver.speech.clientapi:naverspeech-sdk-android:1.1.1] C:\Users\jungh\.android\build-cache\09d2c71c79612e8461657558daa450103d7b4621\output\AndroidManifest.xml:13:22-65

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">Mirror</string>
+  <string name="home_name">Mirror Home</string>
+  <string name="home_name_compact">Compact Mirror Home</string>
+  <string name="unknown_ip_address">Unknown IP Address</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="str_start">Start</string>
+  <string name="str_stop">Stop</string>
+</resources>

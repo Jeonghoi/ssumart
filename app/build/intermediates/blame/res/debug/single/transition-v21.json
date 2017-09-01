@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_enter_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_entrance_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_headers_in.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_shared_element_enter_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_guidedstep_activity_enter.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_entrance_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_title_in.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_title_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_headers_out.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_shared_element_return_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_enter_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_details_return_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_details_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_return_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_return_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_title_out.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_title_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_details_enter_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_enter_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\jungh\\AndroidStudioProjects\\mirror-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_return_transition.xml",
+        "source": "C:\\Users\\jungh\\.android\\build-cache\\771b0d0e64c4c21788f3f2b1a4f53125f96f4a2c\\output\\res\\transition-v21\\lb_browse_return_transition.xml"
+    }
+]
